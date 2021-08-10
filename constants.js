@@ -6,3 +6,4 @@ module.exports = {
     PC_REALM_API = 'https://pc.realms.minecraft.net',
     BE_REALM_API = 'https://bedrock.realms.minecraft.net'
 };
+

@@ -16,7 +16,8 @@
 		"api",
 		"wrapper",
 		"realms",
-		"mc"
+		"mc",
+		"nodejs"
 	],
 	"author": "arc25275",
 	"license": "ISC",
