@@ -1,0 +1,30 @@
+{
+	"name": "mojang.js",
+	"version": "1.0.0",
+	"description": "An API wrapper for all minecraft APIs, including realms",
+	"main": "main.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/arc25275/mojang.js.git"
+	},
+	"keywords": [
+		"minecraft",
+		"mojang",
+		"api",
+		"wrapper",
+		"realms",
+		"mc"
+	],
+	"author": "arc25275",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/arc25275/mojang.js/issues"
+	},
+	"homepage": "https://github.com/arc25275/mojang.js#readme",
+	"dependencies": {
+		"node-fetch": "^2.6.1"
+	}
+}
