@@ -25,6 +25,7 @@
 	},
 	"homepage": "https://github.com/arc25275/mojang.js#readme",
 	"dependencies": {
+		"jsdoc-to-markdown": "^7.0.1",
 		"node-fetch": "^2.6.1"
 	}
 }
